@@ -12,6 +12,7 @@
 		B11F93A81E2C7E8500788E65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11F93A61E2C7E8500788E65 /* Main.storyboard */; };
 		B11F93AA1E2C7E8500788E65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B11F93A91E2C7E8500788E65 /* Assets.xcassets */; };
 		B11F93AD1E2C7E8500788E65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11F93AB1E2C7E8500788E65 /* LaunchScreen.storyboard */; };
+		B11F93B51E2C7F9E00788E65 /* a_r_rahman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B11F93B41E2C7F9E00788E65 /* a_r_rahman.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B11F93A91E2C7E8500788E65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B11F93AC1E2C7E8500788E65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B11F93AE1E2C7E8500788E65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B11F93B41E2C7F9E00788E65 /* a_r_rahman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a_r_rahman.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B11F93A61E2C7E8500788E65 /* Main.storyboard */,
 				B11F93A91E2C7E8500788E65 /* Assets.xcassets */,
 				B11F93AB1E2C7E8500788E65 /* LaunchScreen.storyboard */,
+				B11F93B41E2C7F9E00788E65 /* a_r_rahman.jpg */,
 				B11F93AE1E2C7E8500788E65 /* Info.plist */,
 			);
 			path = "Simple Audio Player";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B11F93AD1E2C7E8500788E65 /* LaunchScreen.storyboard in Resources */,
+				B11F93B51E2C7F9E00788E65 /* a_r_rahman.jpg in Resources */,
 				B11F93AA1E2C7E8500788E65 /* Assets.xcassets in Resources */,
 				B11F93A81E2C7E8500788E65 /* Main.storyboard in Resources */,
 			);
