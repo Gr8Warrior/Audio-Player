@@ -20,6 +20,31 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBOutlet var playButton: UIBarButtonItem!
+    @IBOutlet var pauseButton: UIBarButtonItem!
+    @IBOutlet var stopButton: UIBarButtonItem!
+    
+    @IBOutlet var volume: UISlider!
+    @IBOutlet var playback: UISlider!
+    
+    @IBAction func playback(_ sender: Any) {
+    }
+    
+    
+    @IBAction func volume(_ sender: Any) {
+    }
+    
+    @IBAction func play(_ sender: Any) {
+    }
+    
+    
+    @IBAction func stop(_ sender: Any) {
+    }
 
+    
+    @IBAction func pause(_ sender: Any) {
+    }
+    
+    
 }
 
